@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sentaurus-Origin Plotting"
+  short_description: "Automate Origin plots from Sentaurus data"
+  default_prompt: "Use $sentaurus-origin-skill to turn these Sentaurus results into an editable Origin project and publication-ready figures."
